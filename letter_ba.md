@@ -39,3 +39,23 @@
 | baghávat     |             | bagaavat    |           |               |              | rebellion                           |            |                                                                  |
 | bulbul       |             | bulbul      |           | bulbul        |              | a nightingale                       |            |                                                                  |
 | band         |             | bandh       |           | bandh         |              | closed                              |            |                                                                  |
+| bandar       |             | bandar      |           | bandar        |              | port, harbour                       |            |                                                                  |
+| bandagi      |             | bandagi     |           |               |              | servitude                           |            |                                                                  |
+| bandobast    |             | bandobast   |           |               |              | arrangement                         |            |                                                                  |
+| bandhan      |             | bandhan     |           |               |              | bound, to bind                      |            |                                                                  |
+| banduq       |             | banduk      |           | bandhuk       |              | gun                                 |            |                                                                  |
+| bunyád       |             | buniyaad    |           |               |              | foundation                          |            |                                                                  |
+| bu           |             | bu          |           |               |              | smell                               |            |                                                                  |
+| bahádur      |             | bahaadur    |           | bahaadur      |              | brave                               |            |                                                                  |
+| bahánah      |             | bahaana     |           | bana          |              | excuse                              |            |                                                                  |
+| baháduri     |             | bahaaduri   |           |               |              | bravery                             |            |                                                                  |
+| bihtar       |             | behtar      |           |               |              | better                              |            |                                                                  |
+| bihtarin     |             | behtareen   |           |               |              | excellent                           |            |                                                                  |
+| bayán        |             | bayaan      |           |               |              | explanation, declaration            |            |                                                                  |
+| beánjám      |             | beanjam     |           |               |              | endless                             |            |                                                                  |
+| beparwá      |             | beparwah    |           |               |              | fearless                            |            |                                                                  |
+| betáb        |             | betaab      |           |               |              | restless                            |            |                                                                  |
+| bedil        |             | bedil       |           |               |              | heartless                           |            |                                                                  |
+| bedánah      |             | bedanaah    |           |               |              | seedless                            |            |                                                                  |
+| beghairat    |             | beghairat   |           |               |              | spiritless                          |            |                                                                  |
+| befáidah     |             | befaidah    |           |               |              | useless                             |            |                                                                  |
