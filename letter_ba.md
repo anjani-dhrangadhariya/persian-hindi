@@ -29,8 +29,13 @@
 | barbád       |             | barbaad     |           |               |              | ruined, destroyed                   |            |                                                                  |
 | bárkhast     |             | barkhaast   |           |               |              | adjournment, dismission from office |            |                                                                  |
 | barf         |             | barf        |           | baraf         |              | snow                                |            |                                                                  |
-|              |             |             |           |               |              |                                     |            |                                                                  |
-|              |             |             |           |               |              |                                     |            |                                                                  |
-|              |             |             |           |               |              |                                     |            |                                                                  |
-|              |             |             |           |               |              |                                     |            |                                                                  |
-|              |             |             |           |               |              |                                     |            |                                                                  |
+| Bárkat       |             | barkat      |           |               |              | blessing                            |            |                                                                  |
+| Bari         |             | bari        |           |               |              | free, innocent, guiltless           |            |                                                                  |
+| buzurg       |             | buzurg      |           | bujurg        |              | elder, older                        |            |                                                                  |
+| bas          |             | bass        |           | bass          |              | enough                              |            |                                                                  |
+| bistar       |             | bistar      |           |               |              | bed                                 |            |                                                                  |
+| batak        |             | batak       |           | batak         |              | duck                                |            |                                                                  |
+| bád          |             | baad        |           |               |              | after                               |            |                                                                  |
+| baghávat     |             | bagaavat    |           |               |              | rebellion                           |            |                                                                  |
+| bulbul       |             | bulbul      |           | bulbul        |              | a nightingale                       |            |                                                                  |
+| band         |             | bandh       |           | bandh         |              | closed                              |            |                                                                  |
