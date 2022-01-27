@@ -8,7 +8,7 @@ ba or be similar to ba or be (ब/बे)
 
 | Persian (TL) | Persian (O) | Hindi (TL)  | Hindi (O) | Gujarati (TL) | Gujarati (O) | English                             | Media link | Notes                                                            |
 |--------------|-------------|-------------|-----------|---------------|--------------|-------------------------------------|------------|------------------------------------------------------------------|
-| bábat        |             |             |           | baabat        |              | on account of                       | 1          |                                                                  |
+| bábat        |             | baabat      | बाबत       | baabat        | બાબત         | on account of                       | 1          |                                                                  |
 | baba         |             | baba        |           | bapa          |              | father                              |            |                                                                  |
 | bádám        |             | baadaam     |           | badaam        |              | almond                              | 1          |                                                                  |
 | bádiyán      |             |             |           | baadiyan      |              | star anise                          | 1          |                                                                  |
