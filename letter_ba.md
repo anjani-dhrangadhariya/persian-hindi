@@ -1,3 +1,11 @@
+# Hindustani to Persian (Letter ba)
+
+
+I made a note of the words in Hindi that have their roots in Persian. Bonus: I have mentioned Gujarati for some words too on an empirical basis. (Note: This is an evolving article.)
+
+ba or be similar to ba or be (ब/बे)
+
+
 | Persian (TL) | Persian (O) | Hindi (TL)  | Hindi (O) | Gujarati (TL) | Gujarati (O) | English                             | Media link | Notes                                                            |
 |--------------|-------------|-------------|-----------|---------------|--------------|-------------------------------------|------------|------------------------------------------------------------------|
 | bábat        |             |             |           | baabat        |              | on account of                       | 1          |                                                                  |
@@ -84,3 +92,10 @@
 | Beqarár      |             |             |           |               |              |                                     |            |                                                                  |
 | Bemisaal     |             |             |           |               |              |                                     |            |                                                                  |
 | Behisaab     |             |             |           |               |              |                                     |            |                                                                  |
+
+
+
+Sen, R. (1841). A dictionary in Persian and English, with the pronunciation of Persian words in the roman character. Printed at the Baptist Mission Press.
+
+
+#languages #persian #hindi #urdu #hindustani #transliteration #dictionary
