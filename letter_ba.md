@@ -95,8 +95,9 @@ ba or be similar to ba or be (ब/बे)
 | Behisaab     |             |             |           |               |              |                                     | [1](https://youtu.be/K9w6UBZOn5o?t=48) |                                                                  |
 
 
+In Hindi, the words without the prefix be- are more famous. For example — wastah, namak, hunar, wajud, waqt, hosh, wafa, qarar, faidah, danah, dil, zaban, ghairat.
 
+## Bibliography
 Sen, R. (1841). A dictionary in Persian and English, with the pronunciation of Persian words in the roman character. Printed at the Baptist Mission Press.
-
 
 #languages #persian #hindi #urdu #hindustani #transliteration #dictionary
