@@ -24,9 +24,9 @@ ba or be similar to ba or be (ब/बे)
 | bázári       |             | baazaari    |           | bajaari       |              | of the market                       |            |                                                                  |
 | bázu         |             | baazu       |           | baaju         |              | arm                                 |            |                                                                  |
 | bázuband     |             | baazuband   |           | baajuband     |              | arm ornament                        |            |                                                                  |
-| bázigar      |             | baazigar    |           |               |              | a juggler                           |            |                                                                  |
-| bágh         |             | baagh       |           | baag          |              | garden                              |            |                                                                  |
-| bághchah     |             | baaghichah  |           | bagicho       |              | a small garden                      |            |                                                                  |
+| bázigar      |             | baazeegar    | बाज़ीगर | bājhīgara | બાઝીગર | a juggler                           |            |                                                                  |
+| bágh         |             | baag       |           | baag          |              | garden                              |            |                                                                  |
+| bághchah     |             | bageecha  | बगीचा | bagīcō       | બગીચો | a small garden                      |            |                                                                  |
 | bághbán      |             | baaghbaan   |           |               |              | gardener                            |            |                                                                  |
 | bádla        |             | badla       |           | badlo         |              | revenge                             |            |                                                                  |
 | badmash      |             | badmaash    |           |               |              | wicked, cheat                       |            |                                                                  |
