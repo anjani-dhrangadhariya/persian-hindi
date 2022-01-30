@@ -64,7 +64,7 @@ I made a note of the words in Hindi that have their roots in Persian. Bonus: I h
 | jahán        |             | jahaan       | जहान      |               |              | world                               |                                         |                                            |
 
 
-# References
+## References
 
 Sen, R. (1841). A dictionary in Persian and English, with the pronunciation of Persian words in the roman character. Printed at the Baptist Mission Press.
 
