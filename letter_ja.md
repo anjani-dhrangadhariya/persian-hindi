@@ -1,3 +1,13 @@
+# Hindustani to Persian (Letter ja or je)
+
+This is the sixth letter of the Arabic and Persian alphabet.
+I made a note of the words in Hindi that have their roots in Persian. Bonus: I have mentioned Gujarati for some words too on an empirical basis.
+
+> Notes:
+> This is an evolving article.
+> r = romanized
+
+
 | Persian (TL) | Persian (O) | Hindi (TL)   | Hindi (O) | Gujarati (TL) | Gujarati (O) | English                             | Media link                              | Notes                                      |
 |--------------|-------------|--------------|-----------|---------------|--------------|-------------------------------------|-----------------------------------------|--------------------------------------------|
 | jábajá       |             | jaabajaa     | जा-ब-जा   |               |              | here and there, from place to place | [1](https://youtu.be/FSc-xXXulWA?t=63)  |                                            |
@@ -29,3 +39,34 @@
 | jashan       |             | jashan       | जश्न       |               |              | fest, feast, festival               | [1](https://youtu.be/4h1WFyOQv0Y?t=4)   |                                            |
 | jigar        |             | jigar        | जिगर      |               |              | liver, heart, spirit                |                                         |                                            |
 | julláb       |             | julaab       | जुलाब      |               |              | a laxative                          |                                         |                                            |
+| jald         |             |              |           |               |              | quick, speedy                       |                                         |                                            |
+| jaldi        |             |              |           |               |              | quick, speedy                       |                                         |                                            |
+| jalwáh       |             |              |           |               |              | splendor                            | [1](https://youtu.be/vlBzYHDRwhg?t=10)  |                                            |
+| janáb        |             |              |           |               |              | majesty                             |                                         | Could also mean "Mr." in Hindi             |
+| jinn         |             |              |           |               |              | a spirit                            |                                         |                                            |
+| janáb-ali    |             | janaab e ali |           |               |              | majesty                             | [1](https://youtu.be/gcVbtUGLDNk?t=70)  |                                            |
+| jannát       |             | jannat       | जन्नत      |               |              | heaven                              |                                         |                                            |
+| janázah      |             | Janaazaah    | जनाज़ाह    |               |              | a funeral                           |                                         |                                            |
+| jumbish      |             |              |           | jumbish       | જુમ્બેશ         | agitation, movement                 |                                         |                                            |
+| jund         |             | jhund        | झुंड        |               |              | troop, army                         |                                         | Could also mean a large crowd in Hind      |
+| jang         |             | jang         | जंग        |               |              | a war, a battle                     |                                         |                                            |
+| jangal       |             | jungal       | जंगल       | jungle        | જંગલ          | a forest                            |                                         |                                            |
+| jangali      |             | jangalee     | जंगली      | jaṅgalī       | જંગલી         | wild, savage                        |                                         |                                            |
+| janún        |             | junoon       | जुनून       | janoon        | જનુન          | insanity                            |                                         | means passion in Hindi                     |
+| janúni       |             | junoonee     | जुनूनी      | janoon        | જનૂની         | insane, mad                         |                                         |                                            |
+| jau          |             | jav          | जव        | java          | જવ           | barley                              |                                         |                                            |
+| jawáb        |             | javaab       | जवाब      | javāba        | જવાબ         | answer                              |                                         |                                            |
+| jawán        |             | javaan       | जवान      | yuvāna        | યુવાન         | young                               |                                         |                                            |
+| jawáni       |             | javaanee     | जवानी     | yuvānee       | યુવાની        | youth                               | [1](https://youtu.be/mDlmtKWqkVI?t=35)  |                                            |
+| josh         |             | josh         | जोश       | jus'sō        | જુસ્સો         | heat, boiling                       | [1](https://youtu.be/RVA0cP5Ua10?t=10)  |                                            |
+| jauhari      |             | jauharee     | जौहरी     |               |              | a jeweler                           |                                         |                                            |
+| júhi         |             | joohee       | जूही       |               |              | a flower                            |                                         |                                            |
+| jahán        |             | jahaan       | जहान      |               |              | world                               |                                         |                                            |
+
+
+# References
+
+Sen, R. (1841). A dictionary in Persian and English, with the pronunciation of Persian words in the roman character. Printed at the Baptist Mission Press.
+
+
+#languages #persian #hindi #urdu #hindustani #transliteration #dictionary
