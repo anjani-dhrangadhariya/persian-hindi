@@ -3,6 +3,9 @@
 
 I made a note of the words in Hindi that have their roots in Persian. Bonus: I have mentioned Gujarati for some words too on an empirical basis. (Note: This is an evolving article.)
 
+Notes: This is an evolving article. r = romanized
+
+
 ba or be similar to ba or be (ब/बे)
 
 
