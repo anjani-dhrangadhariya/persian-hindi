@@ -103,4 +103,6 @@ In Hindi, the words without the prefix be- are more famous. For example — wast
 ## Bibliography
 Sen, R. (1841). A dictionary in Persian and English, with the pronunciation of Persian words in the roman character. Printed at the Baptist Mission Press.
 
+Read the article on Medium [here](https://recurrent-pi.medium.com/hindustani-to-persian-letter-ba-d02d5efaf1ff).
+
 #languages #persian #hindi #urdu #hindustani #transliteration #dictionary
