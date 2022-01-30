@@ -68,5 +68,6 @@ I made a note of the words in Hindi that have their roots in Persian. Bonus: I h
 
 Sen, R. (1841). A dictionary in Persian and English, with the pronunciation of Persian words in the roman character. Printed at the Baptist Mission Press.
 
+Read the article on Medium [here](https://recurrent-pi.medium.com/hindustani-to-persian-letter-ja-or-je-c8fee3b842b7).
 
 #languages #persian #hindi #urdu #hindustani #transliteration #dictionary
