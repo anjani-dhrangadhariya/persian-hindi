@@ -61,7 +61,6 @@ I made a note of the words in Hindi that have their roots in Persian. Bonus: I h
 | josh         |             | josh         | जोश       | jus'sō        | જુસ્સો         | heat, boiling                       | [1](https://youtu.be/RVA0cP5Ua10?t=10)  |                                            |
 | jauhari      |             | jauharee     | जौहरी     |               |              | a jeweler                           |                                         |                                            |
 | júhi         |             | joohee       | जूही       |               |              | a flower                            |                                         |                                            |
-| jahán        |             | jahaan       | जहान      |               |              | world                               |                                         |                                            |
 
 
 ## References
