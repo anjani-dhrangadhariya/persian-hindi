@@ -15,25 +15,25 @@
 | ajùbah       |             | ajooba          | अजूबा           |               |              | miracle           |            |                                      |
 | acár         |             | achaar          | अचार           |               |              | pickle            |            |                                      |
 | ihsás        |             | ehsaas          | एहसास          |               |              | sense             |            |                                      |
-| ahsan        |             | ehasaan         | एहसान          |               |              |                   |            |                                      |
-| ákhir        |             | aakhir          | आखिर           |               |              |                   |            |                                      |
+| ahsan        |             | ehasaan         | एहसान          |               |              |          favor    |            |                                      |
+| ákhir        |             | aakhir          | आखिर           |               |              |    last     |            |                                      |
 | ádáb         |             | aadaab          | आदाब           |               |              |                   |            |                                      |
-| ádmi         |             | aadamee         | आदमी           |               |              |                   |            |                                      |
-| adviah       |             | dawai           | दवाई           | davā          | દવા          |                   |            |                                      |
-| árzù         |             | aarazoo         | आरज़ू            | arajhū        | આરઝૂ          |                   |            |                                      |
-| árman        |             | aramaan         | अरमान          |               |              |                   |            |                                      |
-| arrah        |             | aara            | आरा            |               |              |                   |            |                                      |
-| ázád         |             | aazaad          | आज़ाद           |               |              |                   |            |                                      |
-| azmá         |             | aazama          | आज़मा           |               |              |                   |            |                                      |
-| ázmáish      |             | aazamaish       | आज़माइश         |               |              |                   |            |                                      |
+| ádmi         |             | aadamee         | आदमी           |               |              |  man, human       |            |                                      |
+| adviah       |             | dawai           | दवाई           | davā          | દવા          |  medicine          |            |                                      |
+| árzù         |             | aarazoo         | आरज़ू            | arajhū        | આરઝૂ          |    wish         |            |                                      |
+| árman        |             | aramaan         | अरमान          |               |              |    desires     |            |                                      |
+| arrah        |             | aara            | आरा            |               |              |  saw   |            |                                      |
+| ázád         |             | aazaad          | आज़ाद           |               |              |   free    |            |                                      |
+| azmá         |             | aazama          | आज़मा           |               |              |   trial    |            |                                      |
+| ázmáish      |             | aazamaish       | आज़माइश         |               |              |    trial    |            |                                      |
 | ásá          |             | esaa            | ऐसा            |               |              |                   |            |                                      |
-| ásán         |             | aasaan          | आसान           |               |              |                   |            |                                      |
-| ustád        |             | ustaad          | उस्ताद          |               |              |                   |            |                                      |
-| astar        |             | astar           | अस्तर           |               |              |                   |            |                                      |
-| usturah      |             | ustaraa         | उस्तरा          |  Astrō.          |  અસ્ત્રો      |   Razor   |            |                                      |
-| istifá       |             | isteepha           | इस्तीफा       |               |              |  Resignation   |            |                                      |
-| istimál      |             |                 |                |               |              |                   |            |                                      |
-| ásmán        |             |                 |                |               |              |                   |            |                                      |
+| ásán         |             | aasaan          | आसान           |               |              |   easy      |            |                                      |
+| ustád        |             | ustaad          | उस्ताद          |               |              |    master     |            |                                      |
+| astar        |             | astar           | अस्तर          |               |              |    cloth lining for garments    |            |                                      |
+| usturah      |             | ustaraa         | उस्तरा          |  Astrō.          |  અસ્ત્રો      |   razor   |            |                                      |
+| istifá       |             | isteepha        | इस्तीफा         |               |              |  resignation   |            |                                      |
+| istimál      |             |       istimal   |  इस्तिमाल       |               |              |   usage                |            |                                      |
+| ásmán        |             |  aasamaan       |     आसमान    |               |              |            sky    |            |                                      |
 | ásmáni       |             |                 |                |               |              |                   |            |                                      |
 | ishtihár     |             |                 |                |               |              |                   |            |                                      |
 | áshná        |             |                 |                |               |              |                   |            |                                      |
