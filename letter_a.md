@@ -30,8 +30,8 @@
 | ásán         |             | aasaan          | आसान           |               |              |                   |            |                                      |
 | ustád        |             | ustaad          | उस्ताद          |               |              |                   |            |                                      |
 | astar        |             | astar           | अस्तर           |               |              |                   |            |                                      |
-| usturah      |             | ustaraa         | उस्तरा          |               |              |                   |            |                                      |
-| istifá       |             |                 |                |               |              |                   |            |                                      |
+| usturah      |             | ustaraa         | उस्तरा          |  Astrō.          |  અસ્ત્રો      |   Razor   |            |                                      |
+| istifá       |             | isteepha           | इस्तीफा       |               |              |  Resignation   |            |                                      |
 | istimál      |             |                 |                |               |              |                   |            |                                      |
 | ásmán        |             |                 |                |               |              |                   |            |                                      |
 | ásmáni       |             |                 |                |               |              |                   |            |                                      |
