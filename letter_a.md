@@ -2,16 +2,16 @@
 |--------------|-------------|-----------------|----------------|---------------|--------------|-------------------|------------|--------------------------------------|
 | ab           |             | abba            | अब्बा           |               |              | father            |            |                                      |
 | áb           |             |                 |                |               |              | water             |            | water in Sanksrit as well. Cognates? |
-| ábád         |             | aabaad          | आबाद           |               |              | populated         |            |                                      |
+| ábád         |             | aabaad          | आबाद           |               |              | populated         | [1](https://youtu.be/jh66Pjtqr4k?t=15)           |                                      |
 | abru         |             | aabaroo         | आबरू            | aabaroo       | અબ્રાઉ        | dignity           |            |                                      |
 | áb-o-hawá    |             | abohawa         | आबोहवा         |               |              | climate           |            |                                      |
 | átish        |             | aatish          | आतिश           |               |              | fire              |            | not used anymore                     |
 | átishbaaz    |             | aatishbaaz      | आतिशबाज        |               |              | firecracker maker |            | not used anymore                     |
 | átishbaazi   |             | aatishbaazi     | आतिशबाज़ी       | aatishbaaji   |              | fireworks         |            | not used frequently                  |
-| ittifáq      |             | ittifaq         | इत्तेफ़ाक़         |               |              | chance            |            |                                      |
+| ittifáq      |             | ittifaq         | इत्तेफ़ाक़         |               |              | chance            |  [1](https://youtu.be/E9zaC--tLVs?t=31)           |                                      |
 | asar         |             | asar            | असर            | asara         | અસર          | effect            |            |                                      |
-| ijázat       |             | ijaazat         | इजाज़त          |               |              | permission        |            |                                      |
-| ajnabi       |             | ajanabee        | अजनबी          |               |              | stranger          |            |                                      |
+| ijázat       |             | ijaazat         | इजाज़त          |               |              | permission        | [1](https://youtu.be/_BqOnkNpJvA?t=227)           |                                      |
+| ajnabi       |             | ajanabee        | अजनबी          |               |              | stranger          | [1](https://youtu.be/TdUu05Svkl8?t=90)           |                                      |
 | ajùbah       |             | ajooba          | अजूबा           |               |              | miracle           |            |                                      |
 | acár         |             | achaar          | अचार           |               |              | pickle            |            |                                      |
 | ihsás        |             | ehsaas          | एहसास          |               |              | sense             |            |                                      |
@@ -33,7 +33,7 @@
 | usturah      |             | ustaraa         | उस्तरा          |  Astrō.          |  અસ્ત્રો      |   razor   |            |                                      |
 | istifá       |             | isteepha        | इस्तीफा         |               |              |  resignation   |            |                                      |
 | istimál      |             |       istimal   |  इस्तिमाल       |               |              |   usage                |            |                                      |
-| ásmán        |             |  aasamaan       |     आसमान    |               |              |            sky    |            |                                      |
+| ásmán        |             |  aasamaan       |     आसमान    |               |              |            sky    | [1](https://youtu.be/vA86QFrXoho?t=57)           |                                      |
 | ásmáni       |             |                 |                |               |              |                   |            |                                      |
 | ishtihár     |             |                 |                |               |              |                   |            |                                      |
 | áshná        |             |                 |                |               |              |                   |            |                                      |
