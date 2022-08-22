@@ -30,7 +30,7 @@
 | ásán         |             | aasaan          | आसान           |               |              |   easy      |            |                                      |
 | ustád        |             | ustaad          | उस्ताद          |               |              |    master     |            |                                      |
 | astar        |             | astar           | अस्तर          |               |              |    cloth lining for garments    |            |                                      |
-| usturah      |             | ustaraa         | उस्तरा          |  Astrō.          |  અસ્ત્રો      |   razor   |            |                                      |
+| usturah      |             | ustaraa         | उस्तरा          |  Astrō          |  અસ્ત્રો      |   razor   |            |                                      |
 | istifá       |             | isteepha        | इस्तीफा         |               |              |  resignation   |            |                                      |
 | istimál      |             |       istimal   |  इस्तिमाल       |               |              |   usage                |            |                                      |
 | ásmán        |             |  aasamaan       |     आसमान    |               |              |            sky    | [1](https://youtu.be/vA86QFrXoho?t=57)           |                                      |
@@ -48,7 +48,7 @@
 | aksar        |             |                 |                |               |              |                   |            |                                      |
 | agar         |             |                 |                |               |              |                   |            |                                      |
 | ilzám        |             |                 |                |               |              |                   |            |                                      |
-| alsi         |             |                 |                |               |              |                   |            |                                      |
+| alsi         |             |                 |                |   Āḷasu        |              |                   |            |                                      |
 | imárat       |             |                 |                |               |              |                   |            |                                      |
 | amán         |             |                 |                |               |              |                   |            |                                      |
 | amánat       |             |                 |                |               |              |                   |            |                                      |
@@ -60,7 +60,7 @@
 | ambah        |             |                 |                |               |              |                   |            |                                      |
 | intizár      |             |                 |                |               |              |                   |            |                                      |
 | intiqál      |             |                 |                |               |              |                   |            |                                      |
-| andázah      |             |                 |                |               |              |                   |            |                                      |
+| andázah      |             |                 |                |  Andājo        |              |                   |            |                                      |
 | andurùn      |             |                 |                |               |              |                   |            |                                      |
 | andeshah     |             |                 |                |               |              |                   |            |                                      |
 | insániyat    |             |                 |                |               |              |                   |            |                                      |
@@ -69,9 +69,9 @@
 | inqiláb      |             |                 |                |               |              |                   |            |                                      |
 | inkár        |             |                 |                |               |              |                   |            |                                      |
 | angùr        |             |                 |                |               |              |                   |            |                                      |
-| áwárah       |             |                 |                |               |              |                   |            |                                      |
+| áwárah       |             |                 |                |  āwārā  |              |                   |            |                                      |
 | áwárgi       |             |                 |                |               |              |                   |            |                                      |
-| áwáz         |             |                 |                |               |              |                   |            |                                      |
+| áwáz         |             |                 |                |  Avāja  |              |                   |            |                                      |
 | auzár        |             |                 |                |               |              |                   |            |                                      |
 | ahamm        |             |                 |                |               |              |                   |            |                                      |
 | imán         |             |                 |                |               |              |                   |            |                                      |
