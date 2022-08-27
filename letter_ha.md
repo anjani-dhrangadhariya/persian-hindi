@@ -4,7 +4,7 @@
 | hasil        |             | haasil          |                |               |              | attained |            |                                          |
 | hazir        |             | hazir           |                | haajar        |              | presence  |            |                                          |
 | haziri       |             |                 |                | haajari       |              | presence |            |                                          |
-| hal          |             | haal            |                | haal          |              | situation |            |                                          |
+| hal          |             | haal            |                | haal          |              | situation | (1)[https://youtu.be/acdKE2hja7w?t=76]           |                                          |
 | halat        |             | haalat          |                | haalat        |              | situation  |            |                                          |
 | hami         |             |                 |                | haami          |              | defense  |            | hami bharvi                              |
 | hajjam       |             | hajaam          |                | hajaam        |              | barber  |            |                                          |
