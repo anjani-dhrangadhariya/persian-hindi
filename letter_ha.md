@@ -11,7 +11,19 @@
 |  hadd  |             |  hadd   |                |  hadd  |              |  limit        |            |                                          |
 | hiràsat  |             |  hiraasat    |                |               |              |   watching, guarding       |            |                                          |
 |  haràm  |             |  haraam   |                |   haraam  |              |  unlawful  |            |                                          |
-| haràmkhor   |             |  haraamkhor    |                |   haraamkhor    |              | vile (generic insult in India)  |            |                                          |
+| haràmkhor   |             |  haraamkhor    |                |   haraamkhor    |              | vile  |            |  generic insult in India  |
 | haràmzàdagi   |             |  haraamzadgi    |                |       |              | illegitimacy  |            |                                          |
-| haràmzàdagi   |             |  haraamzadgi    |                |       |              | illegitimacy  |            |                                          |
+| haràmi   |             |  haraami    |                | haraami |              | bastard  |            | generic insult in India    |
+| haràmzàdah   |             |  haraamzaadah    |                | haraamdaja |              | bastard |            |  generic insult in India |
+| harkàt   |             |  harkat    |                |  |              | motion |            |   In India, it is used to mean action     |
+|              |             |                 |                |               |              |          |            |                                          |
+|              |             |                 |                |               |              |          |            |                                          |
+|              |             |                 |                |               |              |          |            |                                          |
+|              |             |                 |                |               |              |          |            |                                          |
+|              |             |                 |                |               |              |          |            |                                          |
+|              |             |                 |                |               |              |          |            |                                          |
+|              |             |                 |                |               |              |          |            |                                          |
+|              |             |                 |                |               |              |          |            |                                          |
+|              |             |                 |                |               |              |          |            |                                          |
+|              |             |                 |                |               |              |          |            |                                          |
 |              |             |                 |                |               |              |          |            |                                          |
