@@ -8,17 +8,17 @@
 | halat        |             | haalat          |                | haalat        |              | situation  |            |                                          |
 | hami         |             |                 |                | haami          |              | defense  |            | hami bharvi                              |
 | hajjam       |             | hajaam          |                | hajaam        |              | barber  |            |                                          |
-|  hadd  |             |  hadd   |                |  hadd  |              |  limit        |            |                                          |
+|  hadd  |             |  hadd   |                |  hadd  |              |  limit        | (1)[https://youtu.be/LwD99ctIk6w?t=72] |                                          |
 | hiràsat  |             |  hiraasat    |                |               |              |   watching, guarding       |            |                                          |
 |  haràm  |             |  haraam   |                |   haraam  |              |  unlawful  |            |                                          |
 | haràmkhor   |             |  haraamkhor    |                |   haraamkhor    |              | vile  |            |  generic insult in India  |
 | haràmzàdagi   |             |  haraamzadgi    |                |       |              | illegitimacy  |            |                                          |
-| haràmi   |             |  haraami    |                | haraami |              | bastard  |            | generic insult in India    |
+| haràmi   |             |  haraami    |                | haraami |              | bastard  | (1)[https://youtu.be/stli9FQvdTc?t=11] | generic insult in India    |
 | haràmzàdah   |             |  haraamzaadah    |                | haraamdaja |              | bastard |            |  generic insult in India |
 | harkàt   |             |  harkat    |                |  |              | motion |            |   In India, it is used to mean action     |
 |  hisàb   |             |  hisaab  |                | hisaab  |              | accounting |            |                                          |
 | hasrat |             |   hasrat   |                |               |              | desire  |            |                                          |
-| hasin |             |  haseen  |                |               |              | beautiful |            |                                          |
+| hasin |             |  haseen  |                |               |              | beautiful | (1)[https://youtu.be/zf0YvFpBfxk?t=39] |                                          |
 |  hissah |             |  hissa   |                | hisso  |              |  share, part |            |                                          |
 | haqqdàr |             | haqqdaar  |                |  haqqdarr  |              | rightful owner |            |                                          |
 | haqiqat  |             |  haqikat   |                | hakikat  |              |  truth, reality |            |                                          |
@@ -32,9 +32,9 @@
 |  hawàldàar  |             |  hawaldaar  |                |  hawaldaar |              |  a military officer |            |  a sergeant  |
 |  haweli  |             |  havelee  |                |  haveli |              |  a house |            |     a large mansion  |
 |  hayàt  |             |    |                |  hayaat |              |  life |            |     In Gujarati, it means alive      |
-|  haisiyat  |             |  haisiyat  |                |  haisiyat |              |  capacity |            |  In India, used for financial capacity       |
-|  hawa  |             |  hawaa  |                |  hawaa |              |  air |            |                                          |
+|  haisiyat  |             |  haisiyat  |                |  haisiyat |              |  capacity | (1)[https://youtu.be/9-AKLAfpjrI?t=49]  |  In India, used for financial capacity       |
+|  hawa  |             |  hawaa  |                |  hawaa |              |  air |            |  (1)[https://youtu.be/2ll4IA146YI?t=42]    |
 |  haiwàn  |             |  haiwaan  |                |  hewaan |              |  animal |            |                                          |
 |  haiwàniyat  |             |  haiwaaniyat  |                |   |              |  animality |            |                                          |
 |  hakim  |             |  hakeem  |                |   |              |  a wise man, doctor |            |  no longer used in India      |
-|  huqqah  |             |  hukaah  |                |  huko |              |  smoking pipe |            |                                          |
+|  huqqah  |             |  hukaah  |                |  huko |              |  smoking pipe | (1)[https://youtu.be/b4b1cMVZOUU?t=56]  |                                          |
