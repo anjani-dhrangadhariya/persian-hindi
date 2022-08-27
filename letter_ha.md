@@ -16,14 +16,25 @@
 | haràmi   |             |  haraami    |                | haraami |              | bastard  |            | generic insult in India    |
 | haràmzàdah   |             |  haraamzaadah    |                | haraamdaja |              | bastard |            |  generic insult in India |
 | harkàt   |             |  harkat    |                |  |              | motion |            |   In India, it is used to mean action     |
-|              |             |                 |                |               |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
+|  hisàb   |             |  hisaab  |                | hisaab  |              | accounting |            |                                          |
+| hasrat |             |   hasrat   |                |               |              | desire  |            |                                          |
+| hasin |             |  haseen  |                |               |              | beautiful |            |                                          |
+|  hissah |             |  hissa   |                | hisso  |              |  share, part |            |                                          |
+| haqqdàr |             | haqqdaar  |                |  haqqdarr  |              | rightful owner |            |                                          |
+| haqiqat  |             |  haqikat   |                | hakikat  |              |  truth, reality |            |                                          |
+|  hukm  |             | hukum   |                |  hukam  |              |  order, command |            |                                          |
+| hukúmat |             |  hukumat   |                | hukumat  |              | government  |            |   Not as used in India anymore         |
+|  hal  |             |  hal   |                | hal   |              | solution |            |                                          |
+|   halwà   |             |  halwaa   |                | halwo   |              | a sweetmeat |            |  sweetdish      |
+|  huliah  |             |  huliya  |                |  huliyo |              |  external form |            |                                          |
+|  hamlah  |             |  hamla  |                |  humlo |              |  an assault |            |                                          |
+|  hawàlàt  |             |  hawaalaat  |                |  hawaalaat |              |  things given in charge |            |   In India, it means prison       |
+|  hawàldàar  |             |  hawaldaar  |                |  hawaldaar |              |  a military officer |            |  a sergeant  |
+|  haweli  |             |  havelee  |                |  haveli |              |  a house |            |     a large mansion  |
+|  hayàt  |             |    |                |  hayaat |              |  life |            |     In Gujarati, it means alive      |
+|  haisiyat  |             |  haisiyat  |                |  haisiyat |              |  capacity |            |  In India, used for financial capacity       |
+|  hawa  |             |  hawaa  |                |  hawaa |              |  air |            |                                          |
+|  haiwàn  |             |  haiwaan  |                |  hewaan |              |  animal |            |                                          |
+|  haiwàniyat  |             |  haiwaaniyat  |                |   |              |  animality |            |                                          |
+|  hakim  |             |  hakeem  |                |   |              |  a wise man, doctor |            |  no longer used in India      |
+|  huqqah  |             |  hukaah  |                |  huko |              |  smoking pipe |            |                                          |
