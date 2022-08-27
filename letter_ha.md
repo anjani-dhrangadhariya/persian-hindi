@@ -10,6 +10,8 @@
 | hajjam       |             | hajaam          |                | hajaam        |              | barber  |            |                                          |
 |  hadd  |             |  hadd   |                |  hadd  |              |  limit        |            |                                          |
 | hiràsat  |             |  hiraasat    |                |               |              |   watching, guarding       |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
+|  haràm  |             |  haraam   |                |   haraam  |              |  unlawful  |            |                                          |
+| haràmkhor   |             |  haraamkhor    |                |   haraamkhor    |              | vile (generic insult in India)  |            |                                          |
+| haràmzàdagi   |             |  haraamzadgi    |                |       |              | illegitimacy  |            |                                          |
+| haràmzàdagi   |             |  haraamzadgi    |                |       |              | illegitimacy  |            |                                          |
 |              |             |                 |                |               |              |          |            |                                          |
