@@ -8,7 +8,7 @@
 | halat        |             | haalat          |                | haalat        |              |          |            |                                          |
 | hami         |             |                 |                | hami          |              |          |            | hami bharvi                              |
 | hajjam       |             | hajaam          |                | hajaam        |              |          |            |                                          |
-|              |             |                 |                |               |              |          |            |                                          |
+|  hàmi  |             |                 |                |   haami        |              |          |            |                                          |
 |              |             |                 |                |               |              |          |            |                                          |
 |              |             |                 |                |               |              |          |            |                                          |
 |              |             |                 |                |               |              |          |            |                                          |
