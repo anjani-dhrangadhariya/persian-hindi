@@ -9,7 +9,7 @@
 | átishbaaz    |             | aatishbaaz      | आतिशबाज        |               |              | firecracker maker |            | not used anymore                     |
 | átishbaazi   |             | aatishbaazi     | आतिशबाज़ी       | aatishbaaji   |              | fireworks         |            | not used frequently                  |
 | ittifáq      |             | ittifaq         | इत्तेफ़ाक़         |               |              | chance            |  [1](https://youtu.be/E9zaC--tLVs?t=31)           |                                      |
-| asar         |             | asar            | असर            | asara         | અસર          | effect            |            |                                      |
+| asar         |             | asar            | असर            | asara         | અસર          | effect            | [1](https://youtu.be/JFcgOboQZ08?t=37)           |             |
 | ijázat       |             | ijaazat         | इजाज़त          |               |              | permission        | [1](https://youtu.be/_BqOnkNpJvA?t=227)           |                                      |
 | ajnabi       |             | ajanabee        | अजनबी          |               |              | stranger          | [1](https://youtu.be/TdUu05Svkl8?t=90)           |                                      |
 | ajùbah       |             | ajooba          | अजूबा           |               |              | miracle           |            |                                      |
@@ -19,12 +19,12 @@
 | ákhir        |             | aakhir          | आखिर           |               |              |    last     |            |                                      |
 | ádáb         |             | aadaab          | आदाब           |               |              |                   |            |                                      |
 | ádmi         |             | aadamee         | आदमी           |               |              |  man, human       |            |                                      |
-| adviah       |             | dawai           | दवाई           | davā          | દવા          |  medicine          |            |                                      |
-| árzù         |             | aarazoo         | आरज़ू            | arajhū        | આરઝૂ          |    wish         |            |                                      |
-| árman        |             | aramaan         | अरमान          |               |              |    desires     |            |                                      |
+| adviah       |             | dawai           | दवाई           | davā          | દવા          |  medicine          |  [1](https://youtu.be/ZhnTrqqAFYg?t=38)          |                                      |
+| árzù         |             | aarazoo         | आरज़ू            | arajhū        | આરઝૂ          |    wish         |  [1](https://youtu.be/lPvP889hj8o?t=73)          |                                      |
+| árman        |             | aramaan         | अरमान          |               |              |    desires     | [1](https://youtu.be/3f8tFtcuIkI?t=48)      |                                      |
 | arrah        |             | aara            | आरा            |               |              |  saw   |            |                                      |
 | ázád         |             | aazaad          | आज़ाद           |               |              |   free    |            |                                      |
-| azmá         |             | aazama          | आज़मा           |               |              |   trial    |            |                                      |
+| azmá         |             | aazama          | आज़मा           |               |              |   trial    |  [1](https://youtu.be/drNaEE15Rko?t=9)          |                                      |
 | ázmáish      |             | aazamaish       | आज़माइश         |               |              |    trial    |            |                                      |
 | ásá          |             | esaa            | ऐसा            |               |              |                   |            |                                      |
 | ásán         |             | aasaan          | आसान           |               |              |   easy      |            |                                      |
